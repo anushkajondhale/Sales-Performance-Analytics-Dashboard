@@ -1,0 +1,65 @@
+# 📊 Sales Performance Analytics Dashboard
+
+This project is a Sales Performance Analytics Dashboard developed using **Python, Streamlit, Pandas, and Matplotlib**. The goal of this project is to analyze sales trends, track revenue, and visualize business performance across regions and product categories.
+
+The dashboard allows users to filter data interactively and monitor key performance indicators such as **total revenue, units sold, and average unit price**.
+
+## ✨ Features
+
+- 🔍 Interactive filters for region and product category  
+- 📈 Revenue trend visualization over time  
+- 🌍 Region-wise revenue comparison  
+- 📦 Category-wise units sold breakdown  
+- 📊 KPI summary cards  
+- 📃 Data preview table  
+
+## 🛠 Technology Stack
+
+- 🐍 Python  
+- 🖥 Streamlit  
+- 📚 Pandas  
+- 📉 Matplotlib  
+
+## ⚙ Installation and Usage
+
+### 📥 Step 1: Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### ▶ Step 2: Run the Dashboard
+
+```
+streamlit run app.py
+```
+
+The dashboard will open in your browser 🌐
+
+### 🗂 Step 3: Dataset
+
+A sample dataset is provided in the `data/` folder.  
+The dataset contains the following columns:
+
+- 📅 `date`
+- 🌎 `region`
+- 🛒 `product`
+- 🏷 `category`
+- 🔢 `units_sold`
+- 💲 `unit_price`
+- 📊 `revenue`
+
+You can replace this with your own sales data in the same format.
+
+## 🚀 Future Enhancements
+
+- 🤖 Add forecasting models  
+- 👥 Add customer segmentation analytics  
+- 🔍 Build advanced drill-down dashboards  
+- 🗄 Connect to real-time databases  
+
+## 🎯 Project Purpose
+
+This project was built as part of practical learning in **Data Analytics and Dashboard Development**, focusing on real-world business insights.
+
+---
