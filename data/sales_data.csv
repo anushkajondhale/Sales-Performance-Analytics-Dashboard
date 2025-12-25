@@ -1,0 +1,9 @@
+date,region,product,category,units_sold,unit_price,revenue
+2025-01-01,North,Product A,Electronics,10,1200,12000
+2025-01-01,South,Product B,Fashion,25,800,20000
+2025-01-02,East,Product C,Home,15,500,7500
+2025-01-02,West,Product A,Electronics,12,1200,14400
+2025-01-03,North,Product D,Fashion,30,900,27000
+2025-01-03,South,Product B,Fashion,18,800,14400
+2025-01-04,East,Product A,Electronics,14,1200,16800
+2025-01-04,West,Product C,Home,20,500,10000
